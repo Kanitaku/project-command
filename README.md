@@ -11,8 +11,6 @@ A fully local offline AI desktop companion: voice, memory, emotion, and games. B
 ![License](https://img.shields.io/badge/License-Personal%20Use-orange?style=flat-square)
 
 ---
-<img width="1088" height="752" alt="stripbattleship" src="https://github.com/user-attachments/assets/3125bca7-f660-40c0-988e-c9f7177d54c0" />
-
 
 ## What Is This?
 
