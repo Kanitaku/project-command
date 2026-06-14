@@ -66,7 +66,9 @@ width="728" height="798" alt="desktopcivilian" src="https://github.com/user-atta
 | Kanji Match | `Kanjimatch.py` |
 | Blackjack | `Blackjack.py` |
 | Strip Battleship | `Battleship.py` |
+
 <img width="1088" height="752" alt="stripbattleship" src="https://github.com/user-attachments/assets/3125bca7-f660-40c0-988e-c9f7177d54c0" />
+
 | LLM-powered Trivia | `Trivia.py` |
 | Breakout | `Breakout.py` |
 | Affection Clicker + Eternity Mode | `Clicker.py` |
@@ -83,6 +85,10 @@ width="728" height="798" alt="desktopcivilian" src="https://github.com/user-atta
 - Idle voice lines and background music
 - Command history export, trim, and wipe utilities
 - Game progress tracking and reset
+
+- ### Visual Novel/Dating Sim (In progress)
+
+<img width="1276" height="733" alt="Botanicaldate" src="https://github.com/user-attachments/assets/09f594af-af79-46c3-859c-ecc0278fab9b" />
 
 ---
 
