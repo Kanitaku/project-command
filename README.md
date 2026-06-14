@@ -11,6 +11,8 @@ A fully local offline AI desktop companion: voice, memory, emotion, and games. B
 ![License](https://img.shields.io/badge/License-Personal%20Use-orange?style=flat-square)
 
 ---
+<img width="1088" height="752" alt="stripbattleship" src="https://github.com/user-attachments/assets/3125bca7-f660-40c0-988e-c9f7177d54c0" />
+
 
 ## What Is This?
 
@@ -49,7 +51,10 @@ Built from scratch by a self-taught developer using AI-assisted coding. Every fe
 
 ### Visual Modes
 - **Full Interface** (`main.py`) — portrait panel + chat log + controls
-- **Desktop Mate** (`desktop_mate.py`) — transparent floating PNG, draggable, resizable, subtitles
+- <img width="1180" height="902" alt="FullInterfaceflustered" src="https://github.com/user-attachments/assets/7e38a9ef-2b91-4335-ad7d-d58d7ee1d106" />
+
+- **Desktop Mate** (`desktop_mate.py`) — transparent floating PNG, draggable, resizable, subtitles<img 
+width="728" height="798" alt="desktopcivilian" src="https://github.com/user-attachments/assets/932a16cd-6e68-488f-bcfd-c74772214d4a" />
 - **Full Window Mode** (`fullwindow.py`) — fullscreen on second monitor, static background
 
 ### Nine Minigames
@@ -61,12 +66,14 @@ Built from scratch by a self-taught developer using AI-assisted coding. Every fe
 | Kanji Match | `Kanjimatch.py` |
 | Blackjack | `Blackjack.py` |
 | Strip Battleship | `Battleship.py` |
+<img width="894" height="1023" alt="Launcher" src="https://github.com/user-attachments/assets/5c1bf62e-5c06-4712-be93-9f25df19b0d8" />
 | LLM-powered Trivia | `Trivia.py` |
 | Breakout | `Breakout.py` |
 | Affection Clicker + Eternity Mode | `Clicker.py` |
 
 ### Standalone Panels
 - **Japanese Study Panel** — vocabulary and Kanji practice with Command
+- <img width="1088" height="752" alt="japanesestudy" src="https://github.com/user-attachments/assets/7dbf0b31-a815-47d1-bda2-5275fd29300c" />
 - **VIP Art Gallery** — unlock-gated gallery with music and easter eggs
 
 ### Launcher (`launcher.py`)
