@@ -66,12 +66,11 @@ width="728" height="798" alt="desktopcivilian" src="https://github.com/user-atta
 | Kanji Match | `Kanjimatch.py` |
 | Blackjack | `Blackjack.py` |
 | Strip Battleship | `Battleship.py` |
-
-<img width="1088" height="752" alt="stripbattleship" src="https://github.com/user-attachments/assets/3125bca7-f660-40c0-988e-c9f7177d54c0" />
-
 | LLM-powered Trivia | `Trivia.py` |
 | Breakout | `Breakout.py` |
 | Affection Clicker + Eternity Mode | `Clicker.py` |
+
+<img width="1088" height="752" alt="stripbattleship" src="https://github.com/user-attachments/assets/3125bca7-f660-40c0-988e-c9f7177d54c0" />
 
 ### Standalone Panels
 - **Japanese Study Panel** — vocabulary and Kanji practice with Command
